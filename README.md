@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
+<h1 align="center">Hi 👋, I'm Ali </h1>
 <h3 align="center">A passionate person about the Data and Quantum</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliemami94&label=Profile%20views&color=0e75b6&style=flat" alt="aliemami94" /> </p>
